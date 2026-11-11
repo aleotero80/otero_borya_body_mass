@@ -10,7 +10,8 @@ de la Asociación Paleontológica Argentina*.
 - `notebooks/rfdh_code.ipynb` – random forest, default hyperparameters (RFdh), SHAP
 - `notebooks/rfoh_code.ipynb` – random forest, optimized hyperparameters (RFoh), grid search and sensitivity analysis, SHAP
 - `notebooks/nn_code.ipynb` – neural networks, learning curves and SHAP
-- `data/` – training, validation and benchmark datasets 
+- `data/` – training, validation and benchmark datasets
+- `bm_calculator/` – notebook with the body mass calculator, readme file (intructions), scripts (.py) and training data (Table_S8)
 
 ## Requirements
 Python 3.12.11. Install dependencies with:
